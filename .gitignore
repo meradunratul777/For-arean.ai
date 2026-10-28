@@ -1,0 +1,9 @@
+# local data cache (kline archives are re-downloaded on demand)
+data/cache/
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+# os
+.DS_Store
